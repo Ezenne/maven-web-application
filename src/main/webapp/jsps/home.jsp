@@ -11,8 +11,8 @@
 <body>
 <h1 align="center">Welcome to Landmark Technologies.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients worldwide.
-	           We are also raising over 1m millionaires in "Dollars" by the year 2030.
-	We offer the most hands on Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+	           We are also raising over 1m millionaires in Dollars by the year 2030.
+	We offer the most hands on Training for DevOps with Linux and Cloud Comput equipping IT Engineers for best performance.</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
